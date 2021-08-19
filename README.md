@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+Netlify Link : https://infoware-ecommerce.netlify.app/ (only responsive for pc and tablet not for mobile) . 
+You can login and registered and this app is connected with firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
